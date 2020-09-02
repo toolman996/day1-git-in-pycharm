@@ -4,3 +4,6 @@ from django.shortcuts import render
 def fun():
     print('nihao')
     return
+def login():
+    print('denglu')
+    return
