@@ -7,3 +7,6 @@ def fun():
 def login():
     print('denglu')
     return
+def register():
+    print('注册')
+    return
